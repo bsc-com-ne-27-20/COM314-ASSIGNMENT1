@@ -7,10 +7,10 @@ public class BinaryTreeTest
         BinaryTree binaryTree = new BinaryTree();
 
         // Insert some sample persons into the binary tree
-        Person person1 = new Person("Allino", "Maloya", 30, "ABC123");
-        Person person2 = new Person("Jane", "Halad", 25, "DEF456");
-        Person person3 = new Person("Michael", "John", 35, "GHI789");
-        Person person4 = new Person("Emily", "Williams", 28, "JKL012");
+        Person person1 = new Person("Allino", "Maloya\n", 30, "\nABC123\n");
+        Person person2 = new Person("Jane\n", "Halad\n ",25, "\nDEF456\n");
+        Person person3 = new Person("Michael\n", "John\n" ,35 , "\nGHI789\n");
+        Person person4 = new Person("Emily\n ","Williams\n" , 28, "\nJKL012\n");
 
         binaryTree.Insert(person1);
         binaryTree.Insert(person2);
