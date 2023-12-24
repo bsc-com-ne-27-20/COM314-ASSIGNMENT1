@@ -1,0 +1,15 @@
+/home/heston/TestAssign3/obj/Debug/net6.0/TestAssign3.csproj.AssemblyReference.cache
+/home/heston/TestAssign3/obj/Debug/net6.0/TestAssign3.GeneratedMSBuildEditorConfig.editorconfig
+/home/heston/TestAssign3/obj/Debug/net6.0/TestAssign3.AssemblyInfoInputs.cache
+/home/heston/TestAssign3/obj/Debug/net6.0/TestAssign3.AssemblyInfo.cs
+/home/heston/TestAssign3/obj/Debug/net6.0/TestAssign3.csproj.CoreCompileInputs.cache
+/home/heston/TestAssign3/bin/Debug/net6.0/TestAssign3
+/home/heston/TestAssign3/bin/Debug/net6.0/TestAssign3.deps.json
+/home/heston/TestAssign3/bin/Debug/net6.0/TestAssign3.runtimeconfig.json
+/home/heston/TestAssign3/bin/Debug/net6.0/TestAssign3.dll
+/home/heston/TestAssign3/bin/Debug/net6.0/TestAssign3.pdb
+/home/heston/TestAssign3/obj/Debug/net6.0/TestAssign3.dll
+/home/heston/TestAssign3/obj/Debug/net6.0/refint/TestAssign3.dll
+/home/heston/TestAssign3/obj/Debug/net6.0/TestAssign3.pdb
+/home/heston/TestAssign3/obj/Debug/net6.0/TestAssign3.genruntimeconfig.cache
+/home/heston/TestAssign3/obj/Debug/net6.0/ref/TestAssign3.dll

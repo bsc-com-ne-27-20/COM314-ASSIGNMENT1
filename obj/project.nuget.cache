@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5Bm3AO0XkVWMCGl/UybgQl409AOnkGFLKjgCv2iaD56UE4edFVCv7jxefrO7+kZ8a6dCzTUjCFIOtTR0koIKw==",
+  "success": true,
+  "projectFilePath": "/home/heston/TestAssign3/TestAssign3.csproj",
+  "expectedPackageFiles": [
+    "/home/heston/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/heston/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/heston/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
